@@ -11,4 +11,5 @@
 Some stuff I did today:
 
 Infinte Space Scroller powered by NASA
-<iframe class="imgur-embed" width="100%" height="338" frameborder="0" src="https://i.imgur.com/AWm09IK.gifv#embed"></iframe>
+<img src="https://i.imgur.com/AWm09IK.gif"/>
+!(image)[https://i.imgur.com/AWm09IK.gif]
