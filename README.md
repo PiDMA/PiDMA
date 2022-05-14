@@ -8,7 +8,7 @@
 - 📫 How to reach me: pintodma@gmail.com
 - 😄 Pronouns: He/Him
 
-Some stuff I did today:
+# Some stuff I did today:
 
 ## Infinte Space Scroller powered by NASA
 
