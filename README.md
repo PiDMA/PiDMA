@@ -10,5 +10,6 @@
 
 Some stuff I did today:
 
-Infinte Space Scroller powered by NASA
+##Infinte Space Scroller powered by NASA
+
 ![Gif](./scroller-gif-final.gif)
