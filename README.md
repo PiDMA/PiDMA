@@ -8,8 +8,12 @@
 - 📫 How to reach me: pintodma@gmail.com
 - 😄 Pronouns: He/Him
 
-# Some stuff I did today:
+# Some stuff I did:
 
 ## Infinte Space Scroller powered by NASA
 
-![Gif](./scroller-gif-final.gif)
+![Gif](./assets/scroller-gif-final.gif)
+
+## Contact Manager in JavaFX
+
+![Gif](./assets/contactManager.gif)
