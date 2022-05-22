@@ -12,8 +12,8 @@
 
 ## Infinte Space Scroller powered by NASA
 
-![Gif](./assets/scroller-gif-final.gif)
+![Gif](./scroller-gif-final.gif)
 
 ## Contact Manager in JavaFX
 
-![Gif](./assets/contactManager.gif)
+![Gif](./contactManager.gif)
