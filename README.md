@@ -4,6 +4,8 @@ I'm a recent graduate from George Brown College with a passion for building cool
 ### Languages
 Fluent in both 🇬🇧 and 🇺🇸 and almost at a 3rd grade level in 🇵🇹
 
+also the following:
+
 <div align="center">
   
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
