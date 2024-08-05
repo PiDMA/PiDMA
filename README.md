@@ -23,5 +23,5 @@ fluent in:
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Also able to speak English and almost a 3rd grade level in portuguese :) 
+Also able to speak English and almost a 3rd grade level in 🇵🇹
 </div>
