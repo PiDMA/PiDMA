@@ -1,10 +1,10 @@
 ## ABOUT
 I'm a recent graduate from George Brown College with a passion for building cool things, almost always with code.
 
-### Languages
-Fluent in both 🇬🇧 and 🇺🇸 and almost at a 3rd grade level in 🇵🇹
+### Tech
 
-also the following:
+
+fluent in:
 
 <div align="center">
   
@@ -23,4 +23,5 @@ also the following:
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+Also able to speak English and almost a 3rd grade level in portuguese :) 
 </div>
